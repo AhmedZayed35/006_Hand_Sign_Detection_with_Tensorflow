@@ -95,3 +95,5 @@ The code provides steps to convert the trained model for deployment in TensorFlo
 ## Acknowledgments
 
 This code is based on the TensorFlow Object Detection API and various open-source contributions. Please refer to the respective repositories and documentation for additional details.
+
+Big thanks to [Nicholas Renotte](https://www.youtube.com/watch?v=yqkISICHH-U&t=10066s) for the amazing tutorial.
